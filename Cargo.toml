@@ -1,0 +1,6 @@
+[package]
+name = "dance-organizer"
+version = "0.1.0"
+authors = ["Joseph Gerardot <indyJAG@gmail.com>"]
+
+[dependencies]
